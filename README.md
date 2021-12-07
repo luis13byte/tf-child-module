@@ -1,2 +1,2 @@
 # tf-child-module
-Module child example for Terraform deploy
+Module child example for Terraform EC2 deploy
